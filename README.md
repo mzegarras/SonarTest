@@ -6,7 +6,7 @@ mvn clean test
 
 mvn clean verify
 
-# Publicar resultados de test en sonar:
+# Publicar resultados en sonar:
 
 mvn sonar:sonar
 
